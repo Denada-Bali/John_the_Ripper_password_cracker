@@ -28,6 +28,9 @@ We can control the hash type via Kali Linux by going to:
 
 Where we simply paste the hash that we generated before.
 
+![image](https://user-images.githubusercontent.com/86987951/176083971-517dc867-92d7-4345-9725-a1df74cca9f3.png)
+
+
 ## Step 3
 
 Open the terminal, and apply the following commands
@@ -48,4 +51,6 @@ Then we use a wordlist (see command below), where it tries to break the password
 > john --format=raw-sha256 --wordlist= Test-hash.txt Test.txt
 
 After we execute the command, and the attack is successful we will see the password we were attacking. 
+
+![image](https://user-images.githubusercontent.com/86987951/176084054-6d24a642-b554-4f05-94b0-a6a69494467d.png)
 
