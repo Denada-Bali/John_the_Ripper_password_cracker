@@ -44,3 +44,8 @@ As we save the file it will appear on the desktop.
 ## Step 4
 
 Then we use a wordlist (see command below), where it tries to break the password hashes in the given file (Test-hash.txt)
+
+> john --format=raw-sha256 --wordlist= Test-hash.txt Test.txt
+
+After we execute the command, and the attack is successful we will see the password we were attacking. 
+
