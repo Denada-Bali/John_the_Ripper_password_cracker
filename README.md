@@ -28,8 +28,7 @@ We can control the hash type via Kali Linux by going to:
 
 Where we simply paste the hash that we generated before.
 
-![image](https://user-images.githubusercontent.com/86987951/176083971-517dc867-92d7-4345-9725-a1df74cca9f3.png)
-
+![image](https://user-images.githubusercontent.com/86987951/176483168-71866f28-6c07-4571-bdd1-447f8367c6e3.png)
 
 ## Step 3
 
@@ -44,17 +43,17 @@ in this file we put the generated hash code and save it.
 
 As we save the file it will appear on the desktop.
 
-To save the file we simply press ctrl + x
-
-![image](https://user-images.githubusercontent.com/86987951/176481488-1fde3379-bc0c-42a3-a274-71561c4357e4.png)
-
-Then press Y
-
-![image](https://user-images.githubusercontent.com/86987951/176481933-a31eb430-7cc7-4884-9e3b-0b8e238b88e0.png)
-
-We can change it if we want the file name or just press enter and that's it, the file was saved. 
-
-![image](https://user-images.githubusercontent.com/86987951/176482035-c70dbd09-5700-4755-8008-0dfeac7325c1.png)
+> To save the file we simply press ctrl + x
+>
+> ![image](https://user-images.githubusercontent.com/86987951/176481488-1fde3379-bc0c-42a3-a274-71561c4357e4.png)
+>
+> Then press Y
+>
+> ![image](https://user-images.githubusercontent.com/86987951/176481933-a31eb430-7cc7-4884-9e3b-0b8e238b88e0.png)
+>
+> We can change it if we want the file name or just press enter and that's it, the file was saved. 
+>
+> ![image](https://user-images.githubusercontent.com/86987951/176482035-c70dbd09-5700-4755-8008-0dfeac7325c1.png)
 
 ## Step 4
 
